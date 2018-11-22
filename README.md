@@ -8,7 +8,7 @@ Technologies Used:
 - JAVASCRIPT
 - HEROKU
 
-Acknowledgments:
+Accomplishments:
 - Demonstrating building web application
 - Running on a server using Node.js and Express
 - Deploying application with Heroku
