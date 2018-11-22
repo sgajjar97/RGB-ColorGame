@@ -8,6 +8,8 @@ Technologies Used:
 - HTML 
 - CSS
 - JAVASCRIPT
+- Express
+- NodeJS
 - HEROKU
 
 Accomplishments:
