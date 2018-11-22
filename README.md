@@ -8,7 +8,6 @@ Technologies Used:
 - HTML 
 - CSS
 - JAVASCRIPT
-- Bootstrap
 - Express
 - NodeJS
 - Heroku
