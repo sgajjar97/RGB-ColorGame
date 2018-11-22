@@ -10,7 +10,7 @@ Technologies Used:
 - JAVASCRIPT
 - Express
 - NodeJS
-- HEROKU
+- Heroku
 
 Accomplishments:
 - Demonstrating building web application
